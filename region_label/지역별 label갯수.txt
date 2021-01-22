@@ -1,0 +1,8 @@
+Sokcho:2808
+Gangneung:2268
+Donghae:2471
+Taebaek:2179
+Uljin:2226
+Pohang:1835
+Ulsan:1634
+Daegwallyeong:3414
